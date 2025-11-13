@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student at **Ensias**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m currently working on **ArtiSouk**
 
