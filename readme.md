@@ -201,19 +201,19 @@ print(life.weekend_routine())
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://linkedin.com/in/mossab%20arektout">
+      <a href="https://www.linkedin.com/in/mossab-arektout/">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/>
         <br><b>LinkedIn</b>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://instagram.com/mousaab%20arektout">
+      <a href="https://www.instagram.com/mossabarektout/">
         <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="50"/>
         <br><b>Instagram</b>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="mailto:mossab.arektout@example.com">
+      <a href="mailto:mossabarektout2000@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/email-open.png" width="50"/>
         <br><b>Email</b>
       </a>
