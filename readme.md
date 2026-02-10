@@ -127,24 +127,12 @@ const mossab = new SoftwareEngineer();
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mossabarektout&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mossabarektout&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossabarektout&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=10" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mossabarektout&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true&area=true" />
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mossabarektout&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 ---
 
 ## 📈 Contribution Graph
